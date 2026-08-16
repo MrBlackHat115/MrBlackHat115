@@ -1,4 +1,4 @@
-## Hi there 👋
+## Well, Hello There, IT Nerds! 👋💻
 
 - I’m a Cybersecurity and Computer Science graduate focused on building practical skills in cybersecurity, programming, and IT.
   I’m currently expanding my knowledge through hands-on projects, labs, certifications, and online courses. I enjoy learning by building projects and troubleshooting problems rather than relying solely on theory.
