@@ -14,8 +14,7 @@
   - Machine learning and AI
 
 # Projects:
-- Feel free to explore my projects and write-ups below! 👇
-  I document my hands-on work, cybersecurity labs, CTFs, Python projects, and the things I learn along the way.
+- Feel free to explore my projects and write-ups below! I document my hands-on work, cybersecurity labs, CTFs, Python projects, and the things I learn along the way.
 
 <!--
 **MrBlackHat115/MrBlackHat115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
