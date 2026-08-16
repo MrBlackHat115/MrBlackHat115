@@ -13,10 +13,9 @@
   - Web application security
   - Machine learning and AI
 
-# Fun fact:
-- I enjoy analyzing network traffic, breaking things in controlled environments, and getting way too excited when a CTF machine finally gives me a shell. 
-  I spend my free time on TryHackMe, CTFs, penetration testing, and cybersecurity labs—because apparently, finding vulnerabilities is more fun than having a normal hobby. 
-  My ultimate goal: become an expert penetration tester and professionally break things before the bad guys do. 
+# Projects:
+- Feel free to explore my projects and write-ups below!
+- I document my hands-on work, cybersecurity labs, CTFs, Python projects, and the things I learn along the way.
 
 <!--
 **MrBlackHat115/MrBlackHat115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
