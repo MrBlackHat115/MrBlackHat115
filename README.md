@@ -14,7 +14,7 @@
   - Machine learning and AI
 
 # Projects:
-- Feel free to explore my projects and write-ups below!
+- Feel free to explore my projects and write-ups below! 👇
   I document my hands-on work, cybersecurity labs, CTFs, Python projects, and the things I learn along the way.
 
 <!--
